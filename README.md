@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @Tombonation
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning Java
+ I’m @Tombonation
